@@ -76,7 +76,7 @@ const Description = () => (
         </h2>
         <ul className="hobbies">
           <li>I drink a lot of coffee☕</li>
-          <li>My music is weird than yours 🤖</li>
+          <li>My music is weirder than yours 🤖</li>
           <li>I'm good looking at Stack Overflow 👨‍💻</li>
         </ul>
       </div>

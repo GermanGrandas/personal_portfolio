@@ -1,0 +1,26 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "start": "node server.js",
+    "build": "next build",
+    "deploy": "now --public"
+  },
+  "author": "GermanGrandas",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^9.4.0",
+    "react": "^16.13.1",
+    "react-animations": "^1.0.0",
+    "react-dom": "^16.13.1",
+    "react-scroll-parallax": "^2.3.2",
+    "styled-components": "^5.1.0"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.10.7"
+  }
+}
